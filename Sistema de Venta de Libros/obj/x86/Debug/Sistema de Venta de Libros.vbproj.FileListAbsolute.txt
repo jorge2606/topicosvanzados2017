@@ -1,0 +1,261 @@
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.exe
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.xml
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.pdb
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.pdb
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.xml
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Cliente.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Empleados.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Libros.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Cliente.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Empleados.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Libros.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Form1.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingresar_Compras.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingreso_al_Sistema.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Administrador.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Gerente.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_SuperUsuario.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Vendedor.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Cliente.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Empleados.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Libros.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Resources.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Registrar_Empleados.resources
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe.config
+E:\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe.config
+E:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.exe
+E:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.xml
+E:\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.pdb
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe.config
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.exe
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.xml
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.pdb
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.vbprojResolveAssemblyReference.cache
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMAutor.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMCodigoDeEmpleo.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMDeProvincias.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMEmpresa.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMFormasDePago.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMLocalidadvb.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMSexo.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Archivos_del_Gerente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABM_De_Categoriavb.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Facturas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ventas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Cliente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.AsignacionDeUsuarioYContraseña.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Libros.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Cliente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Libros.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Form1.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Registrar_Clientes.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingresar_Compras.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingreso_al_Sistema.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Administrador.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Gerente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_SuperUsuario.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Vendedor.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Cliente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Libros.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Resources.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Registrar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VerFactura.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.vbproj.GenerateResource.Cache
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.pdb
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.xml
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\RdlCompile.cache
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\RdlCompile.compiled
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros._5LibrosMasVendidos.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe.config
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.exe
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.xml
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.pdb
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.pdb
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.xml
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.vbprojResolveAssemblyReference.cache
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMAutor.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMCodigoDeEmpleo.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMDeProvincias.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMEmpresa.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMFormasDePago.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMLocalidadvb.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMSexo.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Archivos_del_Gerente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABM_De_Categoriavb.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Facturas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ventas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros._5LibrosMasVendidos.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Cliente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.AsignacionDeUsuarioYContraseña.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Libros.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Cliente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Libros.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Form1.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Registrar_Clientes.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingresar_Compras.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingreso_al_Sistema.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Administrador.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Gerente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_SuperUsuario.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Vendedor.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Cliente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Libros.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Resources.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Registrar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VerFactura.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.vbproj.GenerateResource.Cache
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\RdlCompile.cache
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\RdlCompile.compiled
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros2\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeEmpleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeEmpleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.EmpleadoDelMes.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeFacturas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.FacturaPorFecha.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.LibrosPorCategorias.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ClientesPorEdad.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeLibrosEnStock.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeClientes.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VentasPorFecha.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ClientesPorProvincias.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Recaudacion.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Formularios.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.UsuarioYContraseñaEnLaRegistracion.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeLibrosBajas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.AyudaLibro.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VentasAtravezDeLaFactura.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.FrmBackup.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe.config
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.exe
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.xml
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.pdb
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.vbprojResolveAssemblyReference.cache
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ClientesPorEdad.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ClientesPorProvincias.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.EmpleadoDelMes.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.FacturaPorFecha.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Formularios.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeClientes.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeFacturas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeLibrosBajas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeLibrosEnStock.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Recaudacion.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VentasAtravezDeLaFactura.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VentasPorFecha.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.FrmBackup.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.LibrosPorCategorias.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeEmpleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMAutor.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMCodigoDeEmpleo.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMDeProvincias.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMEmpresa.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMFormasDePago.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMLocalidadvb.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMSexo.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Archivos_del_Gerente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABM_De_Categoriavb.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Facturas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ventas.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros._5LibrosMasVendidos.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Cliente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.AsignacionDeUsuarioYContraseña.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Libros.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Cliente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Libros.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Form1.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Registrar_Clientes.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.UsuarioYContraseñaEnLaRegistracion.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.AyudaLibro.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingresar_Compras.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingreso_al_Sistema.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Administrador.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Gerente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_SuperUsuario.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Vendedor.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Cliente.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Libros.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Registrar_Empleados.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VerFactura.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.vbproj.GenerateResource.Cache
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.pdb
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.xml
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Resources.resources
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\RdlCompile.cache
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros(08-11-15)\Sistema de Venta de Libros\obj\x86\Debug\RdlCompile.compiled
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe.manifest
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.application
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.exe.manifest
+D:\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.application
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\bin\Debug\Sistema de Venta de Libros.exe.config
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.exe
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.xml
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.pdb
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.vbprojResolveAssemblyReference.cache
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ClientesPorEdad.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ClientesPorProvincias.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.EmpleadoDelMes.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.FacturaPorFecha.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Formularios.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeClientes.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeFacturas.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeLibrosBajas.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeLibrosEnStock.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Recaudacion.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VentasAtravezDeLaFactura.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VentasPorFecha.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.FrmBackup.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.LibrosPorCategorias.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.NominaDeEmpleados.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMAutor.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMCodigoDeEmpleo.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMDeProvincias.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMEmpresa.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMFormasDePago.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMLocalidadvb.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABMSexo.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Archivos_del_Gerente.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.ABM_De_Categoriavb.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Facturas.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ventas.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros._5LibrosMasVendidos.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Cliente.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.AsignacionDeUsuarioYContraseña.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Empleados.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Consultar_Libros.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Cliente.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Empleados.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Eliminar_Libros.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Form1.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Registrar_Clientes.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.UsuarioYContraseñaEnLaRegistracion.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.AyudaLibro.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingresar_Compras.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Ingreso_al_Sistema.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Administrador.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Gerente.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_SuperUsuario.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Interfaz_del_Vendedor.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Cliente.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Empleados.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Modificar_Libros.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Resources.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.Registrar_Empleados.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sitema_de_Venta_de_Libros.VerFactura.resources
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\Sistema de Venta de Libros.vbproj.GenerateResource.Cache
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\RdlCompile.cache
+D:\backup\Trabajos en Visual Basic 2010\Sistema de Venta de Libros\Sistema de Venta de Libros\obj\x86\Debug\RdlCompile.compiled

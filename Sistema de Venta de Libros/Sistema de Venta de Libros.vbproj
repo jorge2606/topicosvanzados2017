@@ -1,0 +1,780 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AE5D3070-03A2-46D5-8B67-77CA22DB1DF2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sitema_de_Venta_de_Libros.My.MyApplication</StartupObject>
+    <RootNamespace>Sitema_de_Venta_de_Libros</RootNamespace>
+    <AssemblyName>Sistema de Venta de Libros</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Jorge\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Sistema de Venta de Libros.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Sistema de Venta de Libros.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Superadministrador.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DB8C49ABF603405E122D958E40B02F9C14CB1D50</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Sistema de Venta de Libros_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Consultas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Consultas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas.vb">
+      <DependentUpon>Consultas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\ClientesPorEdad.Designer.vb">
+      <DependentUpon>ClientesPorEdad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\ClientesPorEdad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\ClientesPorProvincias.Designer.vb">
+      <DependentUpon>ClientesPorProvincias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\ClientesPorProvincias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\EmpleadoDelMes.Designer.vb">
+      <DependentUpon>EmpleadoDelMes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\EmpleadoDelMes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\FacturaPorFecha.Designer.vb">
+      <DependentUpon>FacturaPorFecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\FacturaPorFecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\Formularios.Designer.vb">
+      <DependentUpon>Formularios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\Formularios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\LibrosPorCategorias.Designer.vb">
+      <DependentUpon>LibrosPorCategorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\LibrosPorCategorias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeClientes.Designer.vb">
+      <DependentUpon>NominaDeClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeEmpleados.Designer.vb">
+      <DependentUpon>NominaDeEmpleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeEmpleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeFacturas.Designer.vb">
+      <DependentUpon>NominaDeFacturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeFacturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeLibrosBajas.Designer.vb">
+      <DependentUpon>NominaDeLibrosBajas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeLibrosBajas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeLibrosEnStock.Designer.vb">
+      <DependentUpon>NominaDeLibrosEnStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\NominaDeLibrosEnStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\Recaudacion.Designer.vb">
+      <DependentUpon>Recaudacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\Recaudacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\VentasAtravezDeLaFactura.Designer.vb">
+      <DependentUpon>VentasAtravezDeLaFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\VentasAtravezDeLaFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulario de Reportes\VentasPorFecha.Designer.vb">
+      <DependentUpon>VentasPorFecha.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\VentasPorFecha.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\ABMAutor.Designer.vb">
+      <DependentUpon>ABMAutor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\ABMAutor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\ABMCodigoDeEmpleo.Designer.vb">
+      <DependentUpon>ABMCodigoDeEmpleo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\ABMCodigoDeEmpleo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.vb">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\ABMDeProvincias.Designer.vb">
+      <DependentUpon>ABMDeProvincias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\ABMDeProvincias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\ABMEmpresa.Designer.vb">
+      <DependentUpon>ABMEmpresa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\ABMEmpresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\ABMFormasDePago.Designer.vb">
+      <DependentUpon>ABMFormasDePago.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\ABMFormasDePago.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\ABMLocalidadvb.Designer.vb">
+      <DependentUpon>ABMLocalidadvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\ABMLocalidadvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\ABMSexo.Designer.vb">
+      <DependentUpon>ABMSexo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\ABMSexo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\Archivos del Gerente.Designer.vb">
+      <DependentUpon>Archivos del Gerente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\Archivos del Gerente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\ABM_De_Categoriavb.Designer.vb">
+      <DependentUpon>ABM_De_Categoriavb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\ABM_De_Categoriavb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\CrearBackUp.Designer.vb">
+      <DependentUpon>CrearBackUp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\CrearBackUp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\Facturas.Designer.vb">
+      <DependentUpon>Facturas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\Facturas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\Ventas.Designer.vb">
+      <DependentUpon>Ventas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\Ventas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModuloConexion.vb" />
+    <Compile Include="ProcedimientosAlmacenadosDelSistema.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ProcedimientosAlmacenadosDelSistema.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\5LibrosMasVendidos.Designer.vb">
+      <DependentUpon>5LibrosMasVendidos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formulario de Reportes\5LibrosMasVendidos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperAdministrador\Clientes\Consultar Cliente.Designer.vb">
+      <DependentUpon>Consultar Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Clientes\Consultar Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\AsignacionDeUsuarioYContraseña.Designer.vb">
+      <DependentUpon>AsignacionDeUsuarioYContraseña.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\AsignacionDeUsuarioYContraseña.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\Consultar Empleados.Designer.vb">
+      <DependentUpon>Consultar Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\Consultar Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Consultar Libros.Designer.vb">
+      <DependentUpon>Consultar Libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Consultar Libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperAdministrador\Clientes\Eliminar Cliente.Designer.vb">
+      <DependentUpon>Eliminar Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Clientes\Eliminar Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\Eliminar Empleados.Designer.vb">
+      <DependentUpon>Eliminar Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\Eliminar Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Eliminar Libros.Designer.vb">
+      <DependentUpon>Eliminar Libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Eliminar Libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Registrar Libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Registrar Libros.Designer.vb">
+      <DependentUpon>Registrar Libros.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperAdministrador\Clientes\Registrar Clientes.Designer.vb">
+      <DependentUpon>Registrar Clientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Clientes\Registrar Clientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\UsuarioYContraseñaEnLaRegistracion.Designer.vb">
+      <DependentUpon>UsuarioYContraseñaEnLaRegistracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\UsuarioYContraseñaEnLaRegistracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedor\AyudaLibro.Designer.vb">
+      <DependentUpon>AyudaLibro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedor\AyudaLibro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedor\Ingresar Compras.Designer.vb">
+      <DependentUpon>Ingresar Compras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedor\Ingresar Compras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ingreso al Sistema.Designer.vb">
+      <DependentUpon>Ingreso al Sistema.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ingreso al Sistema.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Interfaz del Administrador.Designer.vb">
+      <DependentUpon>Interfaz del Administrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Interfaz del Administrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\Interfaz del Gerente.Designer.vb">
+      <DependentUpon>Interfaz del Gerente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\Interfaz del Gerente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperAdministrador\Interfaz del SuperUsuario.Designer.vb">
+      <DependentUpon>Interfaz del SuperUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Interfaz del SuperUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedor\Interfaz del Vendedor.Designer.vb">
+      <DependentUpon>Interfaz del Vendedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedor\Interfaz del Vendedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Libreria.vb" />
+    <Compile Include="SuperAdministrador\Clientes\Modificar Cliente.Designer.vb">
+      <DependentUpon>Modificar Cliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Clientes\Modificar Cliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\Modificar Empleados.Designer.vb">
+      <DependentUpon>Modificar Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\Modificar Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Modificar Libros.Designer.vb">
+      <DependentUpon>Modificar Libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Modificar Libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\Registrar Empleados.Designer.vb">
+      <DependentUpon>Registrar Empleados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SuperAdministrador\Empleados\Registrar Empleados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendedor\VerFactura.Designer.vb">
+      <DependentUpon>VerFactura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Vendedor\VerFactura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formulario de Reportes\ClientesPorEdad.resx">
+      <DependentUpon>ClientesPorEdad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\ClientesPorProvincias.resx">
+      <DependentUpon>ClientesPorProvincias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\EmpleadoDelMes.resx">
+      <DependentUpon>EmpleadoDelMes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\FacturaPorFecha.resx">
+      <DependentUpon>FacturaPorFecha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\Formularios.resx">
+      <DependentUpon>Formularios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\NominaDeClientes.resx">
+      <DependentUpon>NominaDeClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\NominaDeFacturas.resx">
+      <DependentUpon>NominaDeFacturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\NominaDeLibrosBajas.resx">
+      <DependentUpon>NominaDeLibrosBajas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\NominaDeLibrosEnStock.resx">
+      <DependentUpon>NominaDeLibrosEnStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\Recaudacion.resx">
+      <DependentUpon>Recaudacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\VentasAtravezDeLaFactura.resx">
+      <DependentUpon>VentasAtravezDeLaFactura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\VentasPorFecha.resx">
+      <DependentUpon>VentasPorFecha.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\CrearBackUp.resx">
+      <DependentUpon>CrearBackUp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ClientesPorEdad.rdlc" />
+    <EmbeddedResource Include="Reportes\ClientesPorProvincias.rdlc" />
+    <EmbeddedResource Include="Reportes\LibrosPorCategorias.rdlc" />
+    <EmbeddedResource Include="Formulario de Reportes\LibrosPorCategorias.resx">
+      <DependentUpon>LibrosPorCategorias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FacturaPorFecha.rdlc" />
+    <EmbeddedResource Include="Reportes\Facturas.rdlc" />
+    <EmbeddedResource Include="Formulario de Reportes\NominaDeEmpleados.resx">
+      <DependentUpon>NominaDeEmpleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Cinco.rdlc" />
+    <EmbeddedResource Include="Gerente\ABMAutor.resx">
+      <DependentUpon>ABMAutor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\ABMCodigoDeEmpleo.resx">
+      <DependentUpon>ABMCodigoDeEmpleo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\ABMDeProvincias.resx">
+      <DependentUpon>ABMDeProvincias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\ABMEmpresa.resx">
+      <DependentUpon>ABMEmpresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\ABMFormasDePago.resx">
+      <DependentUpon>ABMFormasDePago.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\ABMLocalidadvb.resx">
+      <DependentUpon>ABMLocalidadvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\ABMSexo.resx">
+      <DependentUpon>ABMSexo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\Archivos del Gerente.resx">
+      <DependentUpon>Archivos del Gerente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\ABM_De_Categoriavb.resx">
+      <DependentUpon>ABM_De_Categoriavb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\Facturas.resx">
+      <DependentUpon>Facturas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\Ventas.resx">
+      <DependentUpon>Ventas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulario de Reportes\5LibrosMasVendidos.resx">
+      <DependentUpon>5LibrosMasVendidos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\EmpleadoDelMes.rdlc.rdlc" />
+    <EmbeddedResource Include="Reportes\NominaDeEmpleados.rdlc" />
+    <EmbeddedResource Include="Reportes\NominaDeLibros.rdlc" />
+    <EmbeddedResource Include="Reportes\NominaDeLibrosBajas.rdlc" />
+    <EmbeddedResource Include="Reportes\NominsDeClientes.rdlc" />
+    <EmbeddedResource Include="Reportes\RecaudacionAnual.rdlc" />
+    <EmbeddedResource Include="Reportes\RecaudacionDeHoy.rdlc" />
+    <EmbeddedResource Include="Reportes\RecaudacionMensual.rdlc" />
+    <EmbeddedResource Include="Reportes\VentasPorFecha.rdlc" />
+    <EmbeddedResource Include="SuperAdministrador\Clientes\Consultar Cliente.resx">
+      <DependentUpon>Consultar Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Empleados\AsignacionDeUsuarioYContraseña.resx">
+      <DependentUpon>AsignacionDeUsuarioYContraseña.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Empleados\Consultar Empleados.resx">
+      <DependentUpon>Consultar Empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Consultar Libros.resx">
+      <DependentUpon>Consultar Libros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Clientes\Eliminar Cliente.resx">
+      <DependentUpon>Eliminar Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Empleados\Eliminar Empleados.resx">
+      <DependentUpon>Eliminar Empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Eliminar Libros.resx">
+      <DependentUpon>Eliminar Libros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Registrar Libros.resx">
+      <DependentUpon>Registrar Libros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Clientes\Registrar Clientes.resx">
+      <DependentUpon>Registrar Clientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Empleados\UsuarioYContraseñaEnLaRegistracion.resx">
+      <DependentUpon>UsuarioYContraseñaEnLaRegistracion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedor\AyudaLibro.resx">
+      <DependentUpon>AyudaLibro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedor\Ingresar Compras.resx">
+      <DependentUpon>Ingresar Compras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ingreso al Sistema.resx">
+      <DependentUpon>Ingreso al Sistema.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Interfaz del Administrador.resx">
+      <DependentUpon>Interfaz del Administrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\Interfaz del Gerente.resx">
+      <DependentUpon>Interfaz del Gerente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Interfaz del SuperUsuario.resx">
+      <DependentUpon>Interfaz del SuperUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedor\Interfaz del Vendedor.resx">
+      <DependentUpon>Interfaz del Vendedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Clientes\Modificar Cliente.resx">
+      <DependentUpon>Modificar Cliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Empleados\Modificar Empleados.resx">
+      <DependentUpon>Modificar Empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Modificar Libros.resx">
+      <DependentUpon>Modificar Libros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuperAdministrador\Empleados\Registrar Empleados.resx">
+      <DependentUpon>Registrar Empleados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendedor\VerFactura.resx">
+      <DependentUpon>VerFactura.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Consultas.xsc">
+      <DependentUpon>Consultas.xsd</DependentUpon>
+    </None>
+    <None Include="Consultas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Consultas.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Consultas.xss">
+      <DependentUpon>Consultas.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Sistema de Venta de Libros_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ProcedimientosAlmacenadosDelSistema.xsc">
+      <DependentUpon>ProcedimientosAlmacenadosDelSistema.xsd</DependentUpon>
+    </None>
+    <None Include="ProcedimientosAlmacenadosDelSistema.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ProcedimientosAlmacenadosDelSistema.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ProcedimientosAlmacenadosDelSistema.xss">
+      <DependentUpon>ProcedimientosAlmacenadosDelSistema.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\eliminar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eliminar Empleado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gurdar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eliminar Libro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Agregar Libro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\canastito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mujerCliente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mujerEmpleada.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\varonCliente.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\varonEmpleado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar Libro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Eliminar Libros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CerrarSesion.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registrar Libros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modificar Libros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buscar Libro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icono_escoba.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\agregar al carrito.ico" />
+    <None Include="Resources\Fasticon-Shop-Cart-Shop-cart-exclude.ico" />
+    <None Include="Resources\Fondo.png" />
+    <None Include="Resources\fondo3.jpg" />
+    <None Include="Resources\furo.jpg" />
+    <None Include="Resources\Stop 2.ico" />
+    <None Include="Resources\Aha-Soft-Universal-Shop-Cash-register.ico" />
+    <None Include="Resources\barraDetitulo1.png" />
+    <None Include="Resources\Check_Icon_32.png" />
+    <None Include="Resources\Fasticon-Shop-Cart-Shop-cart-add.ico" />
+    <None Include="Resources\Fasticon-Shop-Cart-Shop-cart-apply.ico" />
+    <None Include="Resources\fondo_de_pantalla.jpg" />
+    <None Include="Resources\images %288%29.jpg" />
+    <None Include="Resources\images %2813%29.jpg" />
+    <None Include="Resources\images %2810%29.jpg" />
+    <None Include="Resources\images.jpg" />
+    <Content Include="Superadministrador.ico" />
+    <Content Include="Uriy1966-Steel-System-Windows-8.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1032 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SistemadeVentadeLibros
+</name>
+</assembly>
+<members>
+<member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.agregar_al_carrito">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Agregar_Libro">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.buscar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.buscar_Libro">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.canastito">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.CerrarSesion">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.descarga">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.eliminar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Eliminar_Empleado">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Eliminar_Libro">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Eliminar_Libros">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Eliminar_Libross">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.fondo_de_pantalla">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.gurdar">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Icono_escoba">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.images">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.images__10_">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.images__13_">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.images__8_">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.images1">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.index">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Modificar_Libross">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.mujerCliente">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.mujerEmpleada">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Registrar_Libros">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.Registrar_Libross">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.salir">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.varonCliente">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Sitema_de_Venta_de_Libros.My.Resources.Resources.varonEmpleado">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.EstadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.Codigo_de_EmpleoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.EmpresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.Formas_de_PagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.LocalidadesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.ProvinciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.SexoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.AutoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.UsuariosDelSistemaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.FacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.CategoriasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.ComprasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.LibrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.EmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.EstadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.Codigo_de_EmpleoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.EmpresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.Formas_de_PagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.LocalidadesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.ProvinciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.SexoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.AutoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.UsuariosDelSistemaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.FacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.CategoriasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.ComprasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.LibrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.EmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.EstadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.Codigo_de_EmpleoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.EmpresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.Formas_de_PagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.LocalidadesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.ProvinciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.SexoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.AutoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.UsuariosDelSistemaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.FacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.CategoriasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.ComprasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.LibrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1.EmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.EstadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.Codigo_de_EmpleoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.EmpresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.Formas_de_PagoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.LocalidadesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.ProvinciasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.SexoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.AutoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.UsuariosDelSistemaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.FacturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.CategoriasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.ComprasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.LibrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.EmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Sitema_de_Venta_de_Libros.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Sitema_de_Venta_de_Libros.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Sitema_de_Venta_de_Libros.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.TableAdapterManager.UpdateAll(Sitema_de_Venta_de_Libros.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.AutoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.CategoriasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.Codigo_de_EmpleoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.ComprasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.EmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.EmpresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.EstadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.FacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.Formas_de_PagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.LibrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.LocalidadesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.ProvinciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.SexoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.UsuariosDelSistemaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.CantidadDeLibrosPorCategoriaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.CantidadDeVentasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.LibrosMasVendidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.AutoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.CategoriasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.Codigo_de_EmpleoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.ComprasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.EmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.EmpresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.EstadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.FacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.Formas_de_PagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.LibrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.LocalidadesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.ProvinciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.SexoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.UsuariosDelSistemaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.CantidadDeLibrosPorCategoriaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.CantidadDeVentasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.LibrosMasVendidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.AutoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.CategoriasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.Codigo_de_EmpleoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.ComprasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.EmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.EmpresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.EstadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.FacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.Formas_de_PagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.LibrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.LocalidadesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.ProvinciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.SexoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.UsuariosDelSistemaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.CantidadDeLibrosPorCategoriaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.CantidadDeVentasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1.LibrosMasVendidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.AutoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.CategoriasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.Codigo_de_EmpleoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.ComprasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.EmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.EmpresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.EstadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.FacturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.Formas_de_PagoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.LibrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.LocalidadesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.ProvinciasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.SexoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.UsuariosDelSistemaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.CantidadDeLibrosPorCategoriaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.CantidadDeVentasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.LibrosMasVendidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Sitema_de_Venta_de_Libros.Prueba1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.TableAdapterManager.UpdateInsertedRows(Sitema_de_Venta_de_Libros.Prueba1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.TableAdapterManager.UpdateDeletedRows(Sitema_de_Venta_de_Libros.Prueba1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.TableAdapterManager.UpdateAll(Sitema_de_Venta_de_Libros.Prueba1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Prueba1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.DataTable3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.EmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.ClientesPorEdadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeLibrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.CincoLibrosMasVendidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeEmpleadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.VentasPorFechaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.ClientesPorProvinciasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.RecaudacioActualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.RecaudacionMensualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.RecaudacionAnualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.CategoriasMasVendidasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeFacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeBajasLibrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.LibrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.DataTable3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.EmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.ClientesPorEdadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeLibrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.CincoLibrosMasVendidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeEmpleadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.VentasPorFechaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.ClientesPorProvinciasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.RecaudacioActualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.RecaudacionMensualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.RecaudacionAnualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.CategoriasMasVendidasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeFacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeBajasLibrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.LibrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.DataTable3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.EmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.ClientesPorEdadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeLibrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.CincoLibrosMasVendidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeEmpleadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.VentasPorFechaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.ClientesPorProvinciasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.RecaudacioActualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.RecaudacionMensualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.RecaudacionAnualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.CategoriasMasVendidasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeFacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.NominaDeBajasLibrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas.LibrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.Consultas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.NominaDeClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.DataTable3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.EmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.ClientesPorEdadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.NominaDeLibrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.CincoLibrosMasVendidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.NominaDeEmpleadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.VentasPorFechaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.ClientesPorProvinciasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.RecaudacioActualTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.RecaudacionMensualTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.RecaudacionAnualTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.CategoriasMasVendidasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.NominaDeFacturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.NominaDeBajasLibrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.LibrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sitema_de_Venta_de_Libros.Consultas,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.TableAdapterManager.UpdateInsertedRows(Sitema_de_Venta_de_Libros.Consultas,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.TableAdapterManager.UpdateDeletedRows(Sitema_de_Venta_de_Libros.Consultas,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.TableAdapterManager.UpdateAll(Sitema_de_Venta_de_Libros.Consultas)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sitema_de_Venta_de_Libros.ConsultasTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
